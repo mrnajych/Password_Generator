@@ -1,0 +1,16 @@
+custom attibute 
+    ->data-passwordDisplay input tag k custom attribute hogya line 12;
+
+->Math. random() function 0 say leker 1 k bich may ek no. dega
+    (max-min) say multiply kiya 
+    max say min 
+
+->String from integer to letter
+    String.fromCharCode(75);
+
+->.checked is used to find it is tick or not
+
+ui k andar change ker naa k liya 
+slider value dal dega 
+
+password lenght function has only one function to show in ui
